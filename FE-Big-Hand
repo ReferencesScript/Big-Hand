@@ -111,6 +111,6 @@ track:Play(.1, 1, 1)
 track.TimePosition = 5.38
 wait(.7)
 track:AdjustSpeed(0)
-wait(.3)
+wait(1)
 game.Players.LocalPlayer.Character.Animate.Disabled = true
 end)
